@@ -15,9 +15,9 @@ __example__
 
 ```javascript
 module.exports = (ctx, args, req, res) => {
-  // console.log('Example log output')
+  console.log('Example log output')
   ctx.success({
-    // msg: 'Example response'
+    msg: 'Example response'
   });
 };
 ```
