@@ -15,3 +15,9 @@ Each Linklet service runs in its own isolated, secure execution context and its 
 ## Open and Familiar
 
 Linklet functions are written in Javascript and execute in a standard Node.js runtime environment. You can take your Linklet functions and run it in any standard Node.js runtime which makes both portability and local testing a breeze. You can even deploy your Linklet function directly.
+
+## HTTPS Invocation
+Linklet functions deployed with an HTTP trigger are given a fully qualified domain together with a dynamically generated SSL/TLS certificate for secure communication.
+
+## Logging & Monitoring
+Logs generated from your Linklet functions are automatically written to our logging stack and performance telemetry is recorded in monitoring stack.
