@@ -6,7 +6,7 @@
 
 ## Create a function
 
-![Create](create-function.png)
+![Create](/create-function.png)
 
 __example__
 
