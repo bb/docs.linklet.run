@@ -1,10 +1,8 @@
-### Linklet
+### Linklet - a serverless platform for building HTTP microservices
 
-> Serverless platform for building microservices
+#### Lightweight HTTP Microservices
 
-#### Lightweight Microservices
-
-Linklet is a lightweight solution that allows you to create small, single-purpose functions that respond to HTTP requests without the need to manage a server or a runtime environment. You can use HTTP invocation to trigger execution.
+Linklet is a lightweight solution that allows you to create small, single-purpose functions that respond to HTTP requests without the need to manage a server or a runtime environment. You can use HTTPS invocation or cron based schedules to trigger the execution.
 
 #### Completely Serverless
 
