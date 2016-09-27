@@ -26,6 +26,9 @@ module.exports = (ctx, args, req, res) => {
 
 ## Test the function
 
+* Press Save & Run or Run to test your function und log output
+* Use cURL or a HTTP-Client you like
+
 ```bash
 curl https://<your service name>.linklet.run/example
 ```
