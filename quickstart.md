@@ -6,7 +6,7 @@
 
 ## Create a function
 
-![Create](https://github.com/linklets/docs.linklet.run/blob/master/create-function.png)
+![Create](create-function.png)
 
 __example__
 
