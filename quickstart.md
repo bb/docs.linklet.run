@@ -6,6 +6,8 @@
 
 ## Create a function
 
+![Create](create-function.png)
+
 __example__
 
 ```javascript
